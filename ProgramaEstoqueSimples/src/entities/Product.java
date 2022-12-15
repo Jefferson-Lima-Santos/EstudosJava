@@ -1,9 +1,9 @@
 package entities;
 
 public class Product {
-	public String name;
-	public double price;
-	public int quantity;
+	private String name;
+	private double price;
+	private int quantity;
 	
 	
 	//Construtor feito em Java
@@ -14,6 +14,24 @@ public class Product {
 		this.price = price;
 		this.quantity = quantity;
 	}
+	
+	//é possível o uso de sobrecarga, como por exemplo, usando o mesmo construtor mas com métodos diferentes.
+	//é possível então chamar o mesmo construtor, mas passando parametros diferentes.
+	public Product(String name,double price) {
+				this.name = name;
+				this.price = price;
+	}
+	
+	public double getPrice(){
+		return price;
+	}
+		public int getQuantity() {
+		return quantity;
+	}
+	public String getName() {
+		return name;
+	}
+	
 	public double totalValueInStock() {
 		return price * quantity;
 	}

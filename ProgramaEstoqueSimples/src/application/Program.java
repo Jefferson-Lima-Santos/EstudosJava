@@ -42,7 +42,7 @@ public class Program {
 				case 2:
 					System.out.println("Digite a quantidade a ser removida");
 					valor = sc.nextInt();
-					if(valor > product.quantity)
+					if(valor > product.getQuantity())
 						System.out.println("Não tem essa quantidade no estoque para ser removida");
 					else
 						product.removeProducts(valor);
