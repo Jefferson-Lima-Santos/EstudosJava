@@ -33,5 +33,8 @@ public class account {
 		balance -= amount - 5.0;
 	}
 	
+	public String toString() {
+		return "Account " + number + ", Holder: " + holder + ", Balance: " + String.format("%.2f", balance) ;
+	}
 	
 }
