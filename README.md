@@ -1,16 +1,15 @@
-# O que eu estudo aqui?
+# O que eu aprendi aqui?
 
-<br>
 
-### - Sobrecarga
+ - Sobrecarga
  
-### - Comportamento de memória, Array e Listas
+ - Comportamento de memória, Array e Listas
 
-### - Enumerações (Enums)
+ - Enumerações (Enums)
 
-### - Herança e Polimorfismo
+ - Herança e Polimorfismo
 
-### - Tratamento de Exceções
+ - Tratamento de Exceções
 <br><br>
 ## Tecnologias Utilizadas:
 
