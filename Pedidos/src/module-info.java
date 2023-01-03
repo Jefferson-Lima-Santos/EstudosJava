@@ -5,5 +5,5 @@
  * @author jeffe
  *
  */
-module AreaTriangulo {
+module Pedidos {
 }
