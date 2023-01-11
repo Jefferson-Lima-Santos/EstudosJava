@@ -22,5 +22,13 @@ public class BusinessAccount extends Account{
 			
 		}
 	}
+	/* Uma das utilizações do super(), na subclasse, é que pode ser utilizada para chamar um método da 
+	 * superclasse de dentro da subclasse, sendo assim, uma forma de informar que está utilizando o método 
+	 * da superclasse. 
+	*/
+	public void withDraw( double amount) {
+		super.withDraw(amount);
+		balance -= 2.0;
+	}
 
 }

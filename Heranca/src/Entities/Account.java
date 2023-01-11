@@ -4,7 +4,6 @@ public class Account {
 	private Integer number;
 	private String holder;
 	protected Double balance;
-	
 	public Account() {
 	}
 
@@ -38,7 +37,7 @@ public class Account {
 		this.balance = balance;
 	}
 	public void withDraw( double amount) {
-		balance -= amount;
+		balance -= amount + 5;
 	}
 	public void deposit(double amount) {
 		balance += amount;
