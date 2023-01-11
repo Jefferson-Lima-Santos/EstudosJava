@@ -7,7 +7,7 @@
 
  - Enumerações (Enums)
 
- - Herança e Polimorfismo
+ - Encapsuamentalo, Herança e Polimorfismo
 
  - Tratamento de Exceções
 <br><br>
