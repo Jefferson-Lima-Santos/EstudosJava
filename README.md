@@ -10,6 +10,17 @@
  - Encapsuamentalo, Herança e Polimorfismo
 
  - Tratamento de Exceções
+ <br>
+ # What did i learn here?
+ 
+ - Memory behavior, Array and Lists
+
+ - Enumerations (Enums)
+
+ - Encapsulation, Inheritance and Polymorphism
+
+ - Handling Exceptions
+ 
 <br><br>
 ## Tecnologias Utilizadas:
 
