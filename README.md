@@ -11,6 +11,7 @@
 
  - Tratamento de Exceções
  <br>
+ 
  # What did i learn here?
  
  - Memory behavior, Array and Lists
